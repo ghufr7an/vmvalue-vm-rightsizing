@@ -24,7 +24,7 @@ A VM that passes the gates is a *review candidate*, not an approval to resize.
 | `VMValue_Revised_Reproducible_Workbook.xlsx` | Live formulas, synthetic inventory, evidence rubric, assumptions |
 | `VMValue_Figures/` | Figures used in the report |
 
-## Key results
+## Key synthetic results
 
 - 12 synthetic VMs; gross modeled difference across all rows: **672** cost units/month
 - Sum of positive differences across all rows: **678** cost units/month
