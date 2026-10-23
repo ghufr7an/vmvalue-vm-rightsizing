@@ -24,7 +24,7 @@ A VM that passes the gates is a *review candidate*, not an approval to resize.
 | `VMValue_Revised_Reproducible_Workbook.xlsx` | Live formulas, synthetic inventory, evidence rubric, assumptions |
 | `VMValue_Figures/` | Figures used in the report |
 
-## Key synthetic results
+## Key results
 
 - 12 synthetic VMs; gross modeled difference across all rows: **672** cost units/month
 - Sum of positive differences across all rows: **678** cost units/month
@@ -59,7 +59,7 @@ Validate on public or de-identified VM traces, calibrate thresholds on a held-ou
 
 ## Citation
 
-Ghufran [add surname]. *Beyond Utilization Thresholds: A Transparent, Risk-Aware Framework for Virtual Machine Rightsizing* (technical report v1.0), 2026.
+Ghufran Shakeel . *Beyond Utilization Thresholds: A Transparent, Risk-Aware Framework for Virtual Machine Rightsizing* (technical report v1.0), 2026.
 
 ## License
 
