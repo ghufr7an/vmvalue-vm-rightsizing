@@ -60,6 +60,7 @@ Validate on public or de-identified VM traces, calibrate thresholds on a held-ou
 ## Citation
 
 Ghufran Shakeel. *Beyond Utilization Thresholds: A Transparent, Risk-Aware Framework for Virtual Machine Rightsizing* (technical report v1.0), 2026.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23595317.svg)](https://doi.org/10.5281/zenodo.23595317)
 
 ## License
 
